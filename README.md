@@ -20,3 +20,9 @@ python3 filename-replacer.py ファイル名置換するディレクトリパス
 ```
 python3 filename-replacer.py test ab XY
 ```
+置換前後イメージ
+| 置換前     | 置換後     | 
+| ---------- | ---------- | 
+| abc.cpp    | XYc.cpp    | 
+| abcabc.jpg | XYcXYc.jpg | 
+| def.txt    | def.txt    | 
